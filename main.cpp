@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int sales = 95000;
     double StateTax = 0.04;
-    double CountyTax = 0.01;
+    double CountyTax = 0.02;
     double StateTaxCalc = sales * StateTax;
     double CountyTaxCalc = sales * CountyTax;
 
